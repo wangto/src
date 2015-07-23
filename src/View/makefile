@@ -1,0 +1,3 @@
+a.out:Main_Menu.c Studio_UI.c ../Service/Studio.c ../Persistence/Studio_Persist.c Play_UI.c ../Service/Play.c ../Persistence/Play_Persist.c Schedule_UI.c ../Service/Schedule.c ../Persistence/Schedule_Persist.c Sale_UI.c ../Service/Sale.c ../Persistence/Sale_Persist.c Seat_UI.c ../Service/Seat.c ../Persistence/Seat_Persist.c
+	gcc Main_Menu.c Studio_UI.c ../Service/Studio.c ../Persistence/Studio_Persist.c Play_UI.c ../Service/Play.c ../Persistence/Play_Persist.c Schedule_UI.c ../Service/Schedule.c ../Persistence/Schedule_Persist.c Sale_UI.c ../Service/Sale.c ../Persistence/Sale_Persist.c Seat_UI.c ../Service/Seat.c ../Persistence/Seat_Persist.c
+
